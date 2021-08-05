@@ -1,3 +1,16 @@
 Protovis
 Stacked Graphs
-
+Horizon Graphs
+Exploratory data analysis
+Q-Q Plots
+Scatter plot matrix (SPLOM)
+Brushing-and-linking
+Parallel coordinates
+Dendrogram (or cluster)
+Adjacency Diagram
+Space-filling adjacency diagram
+Icicle and Sunburst layout
+Node-link diagrams
+Squarified treemaps
+Arc Diagrams
+Seriation
