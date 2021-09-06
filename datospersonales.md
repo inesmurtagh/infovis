@@ -1,5 +1,3 @@
-![línea horizontal](Aspose.Words.a172b767-ba9d-4574-93ce-7516891c5864.001.png)
-
 ## VISUALIZACIÓN DE LA INFORMACIÓN
 **TP: DATOS PERSONALES**
 
